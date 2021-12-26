@@ -1,6 +1,6 @@
-rsource is a project started by insyri, aimed to create services around Roblox and specifically the StrafesNET ecosystem.
+rsource is a project started by insyri, aimed to create services around the StrafesNET ecosystem.
 
-rsource offers many services for everyone: the average user, beginner or highly skilled map makers, and developers who just got started familiarizing themselves with the StrafesNET API.
+rsource offers many services for everyone: the average strafer, map makers, and developers who use the StrafesNET API.
 
 rsource has always and will always be open source, all contributions and welcomed.
 
