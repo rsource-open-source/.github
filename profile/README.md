@@ -1,9 +1,9 @@
-rsource is a project started by insyri, aimed to create services around the StrafesNET ecosystem.
+## about rsource
+rsource is a project started by [insyri](https://github.com/insyri), aimed to create services around the StrafesNET ecosystem, including map development and game integration. all contributions are welcome.
 
-rsource offers many services for everyone: the average strafer, map makers, and developers who use the StrafesNET API.
+you can join the rsource discord server at https://rsource.community/discord or https://discord.gg/2uFfQ3WYN.
 
-rsource has always and will always be open source, all contributions are welcome.
+## promotions (non-advertisal)
+thinking about starting your own cloud project? want to fund rsource? use the referral link below, [here's why](https://docs.digitalocean.com/products/accounts/referrals/).
 
-[rsource project development information](https://github.com/orgs/rsource-open-source/projects/3/views/1) | [feedback and wiki](https://github.com/rsource-open-source/rsource) | [teleportation pages](https://github.com/rsource-open-source/rsource.rqft.space)
-
-you can join the rsource discord server at https://rsource.rqft.space/ or https://discord.gg/2uFfQ3WYNX
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=02e293f3a59e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
