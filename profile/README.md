@@ -6,7 +6,7 @@
 you can join the rsource discord server at https://rsource.community/discord or https://discord.gg/2uFfQ3WYN.
 
 ## help us out
-With the help of awesome contributors and the profound community, rsource is looking to maintain and develop new astounding projects, but only can we create it faster with the will of the **you**. We use TypeScript, Luau, Rust, Go, Kotlin and soon Swift.
+with the help of awesome contributors and the profound community, rsource is looking to maintain and develop new astounding projects, but only can we create it faster with the will of the **you**. we use typescript, luau, rust, go, kotlin and soon swift.
 
 ## fund rsource (for free*)
 <sub>*electronic payment method required with $5 USD deposited for verification, but paying is not necessary</sub>
