@@ -1,4 +1,3 @@
-# this is rsource
 ![](https://media.discordapp.net/attachments/768093841793351723/945467062208331806/rsource_banner.png)
 
 [rsource](https://rsource.community/) is a project started by [insyri](https://github.com/insyri), aimed to create services around the StrafesNET ecosystem, including map development support, game unifying creations, and constructing transcendent experiences.
