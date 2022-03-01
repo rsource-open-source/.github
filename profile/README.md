@@ -5,10 +5,10 @@
 you can join the rsource discord server at https://rsource.community/discord or https://discord.gg/2uFfQ3WYN.
 
 ## help us out
-with the help of awesome contributors and the profound community, rsource is looking to maintain and develop new astounding projects, but only can we create it faster with the will of the **you**. we use typescript, luau, rust, go, kotlin and soon swift.
+with the help of awesome contributors and the community, rsource is looking to maintain and develop new inspiring projects, but only can we create it faster through **you**. (yes, you too!) we use various programming languages, such as typescript, luau, rust, go, kotlin, and soon swift.
 
 ## fund rsource (for free*)
-<sub>*electronic payment method required with $5 USD deposited for verification, but paying is not necessary</sub>
+<sub>*electronic payment method required with $5 USD deposited for monetary verification (like if the card is legit and can pay if the user decides)</sub>
 
 thinking about starting your own cloud project? use the referral link below, [here's why](https://docs.digitalocean.com/products/accounts/referrals/).
 
